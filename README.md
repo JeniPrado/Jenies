@@ -8,7 +8,7 @@
 
 #
 
-<p align="center">Sou formada em Análise e Desenvolvimento de Sistemas. Atualmente sou Junior em Infraestrutura Cloud Microsoft mas estudo outras tecnologias em paralelo.
+<p align="center">Sou formada em Análise e Desenvolvimento de Sistemas. Atualmente sou Junior em Infraestrutura Cloud, mas estudo outras tecnologias em paralelo.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.
   
 #
@@ -30,13 +30,13 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" height="25" alt="c logo"  />
   <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="25" alt="postgresql logo"  />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-original.svg" height="25" alt="c logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="25" alt="react logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" height="25" alt="mysql logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="25" alt="postgresql logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="25" alt="docker logo"  />
 </div>
